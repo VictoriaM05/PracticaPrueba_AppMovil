@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Tests</string>
+    <string name="materia">Mobile App Development</string>
+    <string name="nombre">Victoria</string>
+    <string name="apellido">Martínez</string>
+    <string name="home_screen">Home</string>
+    <string name="back_btn_desc">Back</string>
+    <string name="bottom_app_bar">Background</string>
+    <string name="home_fab_text">Add Button</string>
+    <string name="snackbar_message">Add Button</string>
+    <string name="snackbar_action">Does something</string>
+</resources>

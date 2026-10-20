@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Prueba</string>
+    <string name="materia">Desarrollo de Apps Moviles</string>
+    <string name="nombre">Victoria</string>
+    <string name="apellido">Martínez</string>
+    <string name="home_screen">Inicio</string>
+    <string name="back_btn_desc">Regresar</string>
+    <string name="bottom_app_bar">Fondo</string>
+    <string name="home_fab_text">Botón Agregar</string>
+    <string name="snackbar_message">Botón Agregar</string>
+    <string name="snackbar_action">Hace algo</string>
+</resources>

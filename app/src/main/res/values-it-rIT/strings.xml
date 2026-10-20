@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Prova</string>
+    <string name="materia">Sviluppo di App Mobili</string>
+    <string name="nombre">Victoria</string>
+    <string name="apellido">Martínez</string>
+    <string name="home_screen">Inizio</string>
+    <string name="back_btn_desc">Indietro</string>
+    <string name="bottom_app_bar">Sfondo</string>
+    <string name="home_fab_text">Pulsante Aggiungi</string>
+    <string name="snackbar_message">Pulsante Aggiungi</string>
+    <string name="snackbar_action">Fa qualcosa</string>
+</resources>

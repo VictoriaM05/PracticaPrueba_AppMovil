@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Evidência</string>
+    <string name="materia">Desenvolvimento de Aplicativos Moveis</string>
+    <string name="nombre">Victoria</string>
+    <string name="apellido">Martínez</string>
+    <string name="home_screen">Início</string>
+    <string name="back_btn_desc">Voltar</string>
+    <string name="bottom_app_bar">Fundo</string>
+    <string name="home_fab_text">Botão Adicionar</string>
+    <string name="snackbar_message">Botão Adicionar</string>
+    <string name="snackbar_action">Faz algo</string>
+</resources>
